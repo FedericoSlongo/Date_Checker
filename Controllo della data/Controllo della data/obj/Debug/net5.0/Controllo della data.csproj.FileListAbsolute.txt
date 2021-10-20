@@ -1,0 +1,16 @@
+C:\Users\fslongo\source\repos\Controllo della data\Controllo della data\bin\Debug\net5.0\Controllo della data.exe
+C:\Users\fslongo\source\repos\Controllo della data\Controllo della data\bin\Debug\net5.0\Controllo della data.deps.json
+C:\Users\fslongo\source\repos\Controllo della data\Controllo della data\bin\Debug\net5.0\Controllo della data.runtimeconfig.json
+C:\Users\fslongo\source\repos\Controllo della data\Controllo della data\bin\Debug\net5.0\Controllo della data.runtimeconfig.dev.json
+C:\Users\fslongo\source\repos\Controllo della data\Controllo della data\bin\Debug\net5.0\Controllo della data.dll
+C:\Users\fslongo\source\repos\Controllo della data\Controllo della data\bin\Debug\net5.0\ref\Controllo della data.dll
+C:\Users\fslongo\source\repos\Controllo della data\Controllo della data\bin\Debug\net5.0\Controllo della data.pdb
+C:\Users\fslongo\source\repos\Controllo della data\Controllo della data\obj\Debug\net5.0\Controllo della data.csproj.AssemblyReference.cache
+C:\Users\fslongo\source\repos\Controllo della data\Controllo della data\obj\Debug\net5.0\Controllo della data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fslongo\source\repos\Controllo della data\Controllo della data\obj\Debug\net5.0\Controllo della data.AssemblyInfoInputs.cache
+C:\Users\fslongo\source\repos\Controllo della data\Controllo della data\obj\Debug\net5.0\Controllo della data.AssemblyInfo.cs
+C:\Users\fslongo\source\repos\Controllo della data\Controllo della data\obj\Debug\net5.0\Controllo della data.csproj.CoreCompileInputs.cache
+C:\Users\fslongo\source\repos\Controllo della data\Controllo della data\obj\Debug\net5.0\Controllo della data.dll
+C:\Users\fslongo\source\repos\Controllo della data\Controllo della data\obj\Debug\net5.0\ref\Controllo della data.dll
+C:\Users\fslongo\source\repos\Controllo della data\Controllo della data\obj\Debug\net5.0\Controllo della data.pdb
+C:\Users\fslongo\source\repos\Controllo della data\Controllo della data\obj\Debug\net5.0\Controllo della data.genruntimeconfig.cache
